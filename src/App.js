@@ -46,7 +46,7 @@ function App() {
         </p>
       </div>
       <div className="profilePic">
-        <img src="bawa.jpeg" />
+        <img src="bawa.jpeg" alt="prof" />
       </div>
       <div className="card educationDetails">
         <h3>Education Details</h3>
@@ -68,7 +68,7 @@ function App() {
         </p>
       </div>
       <div className="profilePic">
-        <img src="bawa1.jpeg" />
+        <img src="bawa1.jpeg" alt="prof" />
       </div>
       <div className="card familyDetails">
         <h3>Family Details</h3>
