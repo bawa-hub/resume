@@ -45,6 +45,9 @@ function App() {
           <span className="answer">Software engineer at Google</span>
         </p>
       </div>
+      <div className="profilePic">
+        <img src="bawa.jpeg" />
+      </div>
       <div className="card educationDetails">
         <h3>Education Details</h3>
         <p>
@@ -63,6 +66,9 @@ function App() {
           <span className="question">Post Graduation:</span>{" "}
           <span className="answer">Persuing from IGNOU</span>
         </p>
+      </div>
+      <div className="profilePic">
+        <img src="bawa1.jpeg" />
       </div>
       <div className="card familyDetails">
         <h3>Family Details</h3>
